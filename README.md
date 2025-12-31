@@ -1,5 +1,7 @@
 # wxo-demo
 
-Please be aware that the early edition of Watsonx Orchestrate that included Skills is now largely deprecated in favor of Agents and Tools, which is [documented here](https://jaymig.github.io/wxo-agents/).
+The new Agent and Tools generation of Watsonx Orchestrate is [documented here](https://jaymig.github.io/wxo-agents/).
 
-This legacy documentation is preserved for historical perspective can be [found here](https://jaymig.github.io/wxo-demo/)
+
+Please be aware that this legacy documentation is preserved for historical perspective can be [found here](https://jaymig.github.io/wxo-demo/)
+as the early "skills" edition of Watsonx Orchestrate is deprecated.
